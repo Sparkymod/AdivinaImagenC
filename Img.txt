@@ -1,0 +1,570 @@
+╔════════════════════════════════════════════════════════════════════════════════╗                                                                               
+║                                                                                ║
+║                            ..:.:::.:.                                          ║
+║                           Bv:r7r7rri:Bg                                        ║
+║                           d1Kr7v7vrs1qr                                        ║
+║                            IB      :Biru5U52I25IK5ur.                          ║
+║                            Bi       B             .7PQi                        ║
+║                          UbB.      .B                 BB                       ║
+║                        jQj BM.:i:i.QB              u7  vBv                     ║
+║                      7BK  .irr77v77r7.           JBBr    BB                    ║
+║                    iBZ                         YBS  BD    vBr                  ║
+║                  .BR.                        rBP     5B.    BB                 ║
+║                .MB:                        iBD        .B2    YB7               ║
+║               ZBi                        :Bg.  UK25SJ   RB     BQ              ║
+║              BJ                        .QB.  .B:    YB   rB7    sB.            ║
+║             iB                       .RBi    rB     .Q     QQ    .B            ║
+║              Lgsv7rvvLvvvvvvvLvYvvrj2Qr       iM5jjPM.      sB.  .B            ║
+║                 Bg..:.      ..:::.jB             ..          jBv2K.            ║
+║                 Bj    iri7iri.    rB                         JB                ║
+║                 Bu   B.  Bi  BI   SQ          .irri.         JB                ║
+║                 B2  .B.:.Bv..Bg   bD        uB57:::vD5       UB                ║
+║                 Bu   B   Bi  gq   QX       BQ        SB      jB                ║
+║                 B1  rB.  Br  Qg   BS      JB     BQdQ QK     1B                ║
+║                 Bs sB7555L22SYQQ  BU      Bj      7r. vB     sB                ║
+║                 BP  ...........   B5      BL          7B     PB                ║
+║                 .B7               gS      B7          rB    7B.                ║
+║                   qEUsvvvYvLLYvYvrBBrYLJvrBRrYYJYsssL7gBrs2Zq                  ║
+║                     ....:.:.:.:.... ..:...  ......:.... ...                    ║
+║                                                                                ║
+╚════════════════════════════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                ║
+║                                                                                ║
+║                                                                                ║
+║                                                                                ║
+║                                 .r.                                            ║
+║                              .ii Br                                         . I║
+║                             ii   B.                                     ...  :B║
+║                            Y.    B:                                   .:.    B ║
+║                         ..u.     .B                                  :.     B: ║
+║                  ..:irii::        :L::::iririi.:.. d7              .:      BU  ║
+║            .::iii..                            ...  v.i::::::..   .:      QB   ║
+║       .:ii::.                                                ..:.i.      YB    ║
+║   .ir.:                                                                 iB     ║
+║: :. :B          v7Zv17                            .    ..       ..      vB     ║
+║Br   :B          ij5QBS                          .         i7UuJrJb7      Z:    ║
+║ .SBB        i...:BZQB                ....      .   .rr 1Mji:.     s7 ..   Q    ║
+║    :r7BBr.       7q7        i.......:.    .    7BSDqKj2B           v2.    .B   ║
+║       dguj.        7         qi           .1QJiBB                    7sv:  .Z  ║
+║         .:771s7rri.iB       7b      .:v1KSui: ..                       :J5r.SB ║
+║                     r5      :B7J2qbPPIi.                                  .rrY ║
+║                      .E7     55                                                ║
+║                        7PY.   7i                                               ║
+║                          :Jj7::QP                                              ║
+║                              .ir                                               ║
+║                                                                                ║
+║                                                                                ║
+║                                                                                ║
+║                                                                                ║
+╚════════════════════════════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════════════╗
+║                                 vJuu7.                                         ║
+║                              :gg7  ir7E5Qd                                     ║
+║                             7B           7B .vL:  ii.                          ║
+║                           Bri            SBS  sBBiiIB                          ║
+║                           YB:               .BSv. .   7B1XP                    ║
+║                         BL                  .. :vvvJv    QX                    ║
+║                        IuBJ .i                 UZ:   IPi  vB                   ║
+║                       B2  5r :.           .  QL:2i     LB  XB                  ║
+║                    ::Bv      u7vvvrrrr   7irRi          US  Br                 ║
+║                  :BiIi      Bi    :r.:B::vr7              Z: BQ                ║
+║                iUBb        1S          B1               i  B  bB7.             ║
+║               bB         bs5           .KY             .r  B    .B:            ║
+║              Bu        .Bi               .q           :.   ri   :B.            ║
+║              B         r2                .1 .:i:.:s1...   .:r7  :Rd            ║
+║             5B ir.     Ki ....rv:7:r.:r.:: uEi:iP:ZBs .:isr  :    BJ           ║
+║            7B    I  ..  i. .77PR.MjiBggqv7BU.  d..K     .::7BBv2RbK            ║
+║            vQiiX1iJj:ii:      .QdBB .D. :Z1 .JdSEKRJDj1KX1Urr:::.              ║
+║             .r7.:vus111vPPP1Pq2i  BQ  1Bv. .r:5vi    :.                        ║
+║                                    B  .     .U7.                               ║
+║                                    P        B.                                 ║
+║                                   7r    :  PP                                  ║
+║                                   B  .  D  B                                   ║
+║                                  R :.  .S  g                                   ║
+║                                .K .2:. .:  B                                   ║
+║                           ..:Lr:.SI        PBi .::                             ║
+║                        .IsJ7::7Y7   ..      .::2uEBI                           ║
+║                     .rjQXJivBiir.:ibBii:SRS::.vrirvSBr                         ║
+║                     .rjQXJivBiir.:ibBii:SRS::.vrirvSBr                         ║
+╚════════════════════════════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                ║
+║                         vMQg                                                   ║
+║                        :Bq  Bi       .7P.                                      ║
+║                       SB.   7MdP2i.2QXigQ                                      ║
+║                     EBi         :jEv   7Q                                      ║
+║                    QP  Y:  i.          dP                                      ║
+║                   .B  :Xg  BB  :Bu     .B                                      ║
+║                   .B  dB:   Lj..Bu 7r.  BQKdES7.                               ║
+║                    BS .. YQrQB.    PBU  B:   :vEMI                             ║
+║                     Bv    ...uID. U27  :B        LBP                           ║
+║                     :B            .X   :.          2B.                         ║
+║                      B                              .B.                        ║
+║                      BP                     r        .B                        ║
+║                       Br                  iBK         bg                       ║
+║                        Bj                LB            B                       ║
+║                         B  .D     .      B             Q                       ║
+║                         B   BB   Bu     :B             B                       ║
+║                       .Qr   BQ   B7      B:           .BP5.                    ║
+║                      iQ    rRB.   Br     rBQi         Q  :gB                   ║
+║                      iB:::PB iB:  LBPqK5BB         .2BB:   :B                  ║
+║                        vsY:   .USXj     .P221S5SXEZbr  2B:  sB                 ║
+║                                             .....        B  .B                 ║
+║                                                         qQ  ZE                 ║
+║                                                     .vEgr  UB                  ║
+║                                            ..:ivjKdEUi   iBZ                   ║
+║                                      XEXKKPSIYvi:     :IQX.                    ║
+║                                     IB            i2dZu:                       ║
+║                                      EdL7iii7Y5PZKs:                           ║
+╚════════════════════════════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════════════╗
+║                                         BvEggs.                                ║
+║                                         B   iBB5                               ║
+║                                         BBBBBBqrUBB                            ║
+║                                        SP B:..isSB                             ║
+║                                     .uqQL .r1ur  B                             ║
+║                                   7BB: si B      gs                            ║
+║                                :Pgv .: d: B       B                            ║
+║                              SMBu     .B. B       Bv                           ║
+║                           iZZr  .vi    B  B        B                           ║
+║                         JQg5.     .si  B  Q        rQ                          ║
+║                       Zg7   :7i     .7:B  B         KB                         ║
+║                     KRSi      :Ji     .B  B          SB                        ║
+║                   :B:   :7r     :vr    B  B           rQr                      ║
+║                   :BUi    .r7.    .vr  B  B             gg                     ║
+║                     .UQdi    :vi    .:IB  B.             :BBLBE                ║
+║                        :SQqi   .r7.   vB  B.         :rY1UjDPRr                ║
+║                           :SQK:   :7: ib  B.    .isuUIKKXJr.                   ║
+║                              :XQ5.   .Q2  BL.L12LuYUUur.                       ║
+║                                 iXQu  XJ  rUrrvL1s7.                           ║
+║                  .57rrri::..       .YvB:   irr:                                ║
+║                  :Bgsi:.rrrv77Uvss7::rB5i:BB:..:ii::7riiLsus7.                 ║
+║                    :r7QR:irrir:ii:::.. ..:...... .qMqXQK    .B:                ║
+║                        B7 ..::iiri7r7Y7rY7iirii.rbv: .i.Qr  iB.                ║
+║                         BK       . .. .....:::..Bi gu2P  BiBr                  ║
+║                          QB   .           .    .B JB  BP bsQ                   ║
+║                           5B7:...  . .. ..  .   BZ :Isv sQiP                   ║
+║                             sJI15uJJv77iii:.:..  YPI  Ju57B                    ║
+║                                                                                ║
+╚════════════════════════════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════════════╗                                                                         
+║                                         ZI                                     ║
+║                                    B:   PrU   b7                               ║
+║                                   .brr iBZE  :KZ.                              ║
+║                                   :BBq P5Rur BBB.                              ║
+║                                   :BvB iJ E:iq.B.                              ║
+║                                    B BiiB B LPYg                               ║
+║                             .DIguPMBLrDiv LE2iPZUP2S:                          ║
+║                            BEir: .              : iU2B.                        ║
+║                           Dr   ..  :i  .Y ::  ....   :M                        ║
+║                           b:.:.......: :.: i .:. ii:.DE                        ║
+║                            Dr     .  .:.   i :      dB                         ║
+║                            rB r:PrUPrr.rv.:7i7ir.7  Q.                         ║
+║                          bBL.:: .    :    :  :. :.:iDrq.                       ║
+║                         M:    ..    .:  r   ::    .  :.Q                       ║
+║                        .M  .ir..:r  r.ri7. .r.r i:i:.v Sr                      ║
+║                         5B:.     .: i    ...   .      rg                       ║
+║                          ub    . .:.i.... ...         B                        ║
+║                      .rKiMI ivrJL:7..7..iv.7 Y.:L... IQ..                      ║
+║                     RDi:.. .:..   :    .:   :. :..rY7 K7gUg                    ║
+║                    qM     ..   .  .:   :.  :   :   ...:   7B                   ║
+║                    B  :. . .. :::..:  .: i::i :.i  i .  .  g.                  ║
+║                    7I :i i..: :..:.i. :: ::...:..:.i.:::.:.B                   ║
+║                     B:  :.  :ri     ...                   B                    ║
+║                     Iv                 ........... ...   .g                    ║
+║                    uP7                                   .Q:                   ║
+║                :BQPU...:.:.:..::.::::...:..:..:....:.:.::.:XdBQ                ║
+║                 rirrJu222UIu1u1s1j1JuJuJuJjJjJ11U121IU5521Jrri:                ║
+║                                                                                ║
+╚════════════════════════════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════════════╗  
+║                                                                                ║
+║                                                                                ║        
+║                                               BZ 7B.  BBiEB   rKr              ║
+║                                   .i         gB   BU XB   B  BBbBB             ║
+║                          XBBB:   BBqBY       B7   B5 B:  LB BB  BB             ║
+║                   .BBB   B. UB. rB   Br      Bi   Qv.B   B rQ  .B  DQB:        ║
+║                   BB vB. B   ZB 5B   UB     .B:   B.gP  Sg B   Q .Bj QB        ║
+║                .  jB  :B 5B   B vB   :Q     .B.   B.B.  B BY  B:.B.  BK        ║
+║              YBQBL Qq  SB B:  B2.Q   .B     :Q   .BBB  .BDP  EY B.  2B         ║
+║              BB  BQ B7  Qv.B  :B B   .B:    JB     ri7rPBg  .B Br  vB.         ║
+║              :B   BB B:  B:B.  BuQ.   BBQ1:iBS           .vrBBBi  1B.          ║
+║               EB   BR B   QB5 .1BQ:   Bs qBB7  :.            :i  PB.           ║
+║                BB   BbRQ .vB2i:       RB   .1gEXQQ:             LB.            ║
+║                 QB   QBEi:             BBBBBr    BB             Bv             ║
+║                  dB                i.   ::      gBMj..         BB              ║
+║                   RB             .br         .rBB5 iJE        IB               ║
+║                    BQ           .Q        7r7RBR.    .       :Br               ║
+║                    :Br        :1P        bvPBU               Bq                ║
+║                     XB        77:       sLQBMri:.           BQ                 ║
+║                      BQ                 LiB  .:rvBD.:.    .BM                  ║
+║                       BB               .BgB.   B Qv r1X1i.BZ                   ║
+║                        BB         1X5qZP7 SB   :LB       BB                    ║
+║                         BB  :rj17:B ::     BBRBBBQr.    iBr                    ║
+║                          BB :i.   Qv:2    iBD    iIQBBBBBu                     ║
+║                          .B:       Q1vdQBBD.                                   ║
+║                           XBYiruPQQMPUr:                                       ║
+║                            rQRZUr                                              ║
+║                                                                                ║
+╚════════════════════════════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════════════╗                                                                             
+║                                                                                ║
+║                                                                                ║
+║                                                                                ║
+║                                                                                ║
+║                                                                                ║
+║                                                                                ║
+║                                      ..::i:.                                   ║
+║                                  .IgPMBBBBBBBBBZ7                              ║
+║                                :QBL    2BBQBBgi:PBK                            ║
+║                               bBi        PZ.      qB:                          ║
+║                              BBi         g         .Bi                         ║
+║                             BBB.        :Q          .B                         ║
+║                            DQBBXi.    vBBBD.        .BE                        ║
+║                            BB5  7XPYXQBBBQBB5      .BBB                        ║
+║                           7B       rBBQRgRRBBBJXXKjdBBB.                       ║
+║                           sB        BBQRRgQBBI      DQB                        ║
+║                           .B        bBBBBBBBY        BB                        ║
+║                            BD     .SS:irvJdB         BP                        ║
+║                            .BEv: JZi       g:       XB                         ║
+║                             :BBBBj          B      UB.                         ║
+║                               QBBQ          QQ5I5DBB.                          ║
+║                                :BBP.      .BBBBBBB1                            ║
+║                                  .PBBBgPUgBBQBQU.                              ║
+║                                      .rLuYi.                                   ║
+║                                                                                ║
+║                                                                                ║
+║                                                                                ║                                                                                                     
+║                                                                                ║
+╚════════════════════════════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════════════╗       
+║                                             :7vri...........r5U                ║
+║                                 7Y:7.     rj:.            QQ.7                 ║
+║                                 :7:.7i   Ui             UBP L.                 ║
+║                                   .v.r. S             rBB   I                  ║
+║                             ...     s rr.           XBBi   S.                  ║
+║                        .ivrriiir77:. j7P  .::i::.vBBQ:    u:                   ║
+║                      .j7.         .:iP5uii:.. ...KBi     1i                    ║
+║                     vs                              rv :u.                     ║
+║                    1r                                 Qr                       ║
+║                   vr                                   5                       ║
+║                  .K                                    .S                      ║
+║                  1.                                     U.                     ║
+║                  X                                      :7                     ║
+║                  X                                      .1                     ║
+║                  X                                      .Y                     ║
+║                  5                                      rr                     ║
+║                  i7                                     P                      ║
+║                   q                                    iv                      ║
+║                   77                                   P                       ║
+║                    q                                  X.                       ║
+║                     P                                1i                        ║
+║                     .X                              Ui                         ║
+║                      :X                            2:                          ║
+║                      .X                         :2.                            ║
+║                         X.                      j7                             ║
+║                          u7                   iU.                              ║
+║                           :L7:....:::.:::...isi                                ║
+║                                                                                ║
+╚════════════════════════════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════════════╗                                              
+║                                                                                ║
+║                                      ..:QX.:7..                                ║
+║                                     Ji Ei  ui BBBv.                            ║
+║                                     BPDBiXBu   ruBRrr:                         ║
+║                                   .g2.:rIvR2. :  :7 .jBL                       ║
+║                                 .2:      u  .UBJQ   .  DBI                     ║
+║                                 d        q:     MDM  . :QBDv                   ║
+║                                 E2      JB       .Q57P  Pi BB1                 ║
+║                                j.rY:.:JuP.:77vuur   .5. J LBgEB7               ║
+║                               ri    :D.  v:     .v7   MB 1X    B.              ║
+║                              rQ:rr7.   vS        rJ    1BB    rL               ║
+║                             r:     JY  K        SK      7v .L7                 ║
+║                            X.       B  iL ..rLjJQ      :s.7r                   ║
+║                            d:      rB7  .YL2r.      .  JP.                     ║
+║                            5M.  .1q.               . i 7                       ║
+║                           u  virIg     .       ... r:B7J.                      ║
+║                          7:     .     iLr.r   S 71:r  ::                       ║
+║                         L5.::...    L7.:XrLJriis.:.v                           ║
+║                        Yq...:L:   :J  vvr J.     r.7                           ║
+║                       J:      q: r7  b1:vSj      7.i:                          ║
+║                      v7      :X. L:vYr:  :       .L7.                          ║
+║                      JQ.   .1U. .:7.                                           ║
+║                     Y..5Lrir77: LK7                                            ║
+║                    Li     .ir 7v:                                              ║
+║                    P  ..vXI   v.u                                              ║
+║                   Ji.ijd :    r7I                                              ║
+║                   P:v          .                                               ║
+║                                                                                ║
+╚════════════════════════════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════════════╗                                                                            
+║                                                      .                         ║
+║                                                     jB                         ║
+║                                                    .IBQ                        ║
+║                                                       B                        ║
+║                                                      BJiBQ                     ║
+║                                                   vP7Q  BQ                     ║
+║                                                7BQBB D:1BB                     ║
+║                                                 .  5:QR..                      ║
+║                                                    .rdQ                        ║
+║                     r7rr7rrrrrrirrrrrrj             .QPr                       ║
+║                     q                 D              :B7q                      ║
+║                     XLiiririririririiur               5Q:B                     ║
+║                    :X.               B                .B:B.                    ║
+║                 .7Y:                1:                :UdQi:                   ║
+║             ::iQI.                 q.                 :UBP :7                  ║
+║             2:J.                  b                 .r BQ:..qrii:.             ║
+║              B    :1KdZEEEI.     7r                :r BBd.      .i7:           ║
+║             5   jBK:      rB7    :j               7: BB.           :j          ║
+║            iY  DB          :B     7v..........:ii:  BB     .rM1BU.Uiv.         ║
+║            X   B  :BBQBBB  Bi        .. . . .  .B 7QBs :.1BB QRbB5 L           ║
+║            g..5B. 2r::iji jB.   i::..........:i2BBBS. .Y:B: QBJ: Bv.7          ║
+║              U:bB g7vvu. .qrBbIEBBBBBBBBBBBBBQBQXr.   :.:B ..r.S QR 1          ║
+║              .r B2 .vJ.BB.P                            U BR  .. YB.r:          ║
+║               ii.EQX5UMK.i:                            .v.KBPqPRQ::r           ║
+║                .i:ivvvi:i.                               i:i7svr:i.            ║
+║                     .                                       .                  ║
+║                                                                                ║
+║                                                                                ║
+╚════════════════════════════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════════════╗                                                                  
+║                                                                                ║
+║                                                                                ║
+║                                                                                ║
+║                                                                                ║
+║                                                                                ║
+║                                                                                ║
+║                                                                                ║
+║                                   :v1juYv777Lvv7v77rri:::.                     ║
+║                                :XBg57i:.uL5riiirr7r7rKvi..Li                   ║
+║                             .7gBI.      1 j           5vK. :j.                 ║
+║                           .7PPi        ir 1            E 25  7s.               ║
+║                        .r25v.          2  L            su .dr .Yv.             ║
+║                 .::iir7:I.:Kr7vLLYYYLvIP7UP7LsLsLJLsLLrZR7iSq   .777r:.        ║
+║            .irvri:..    Ei:i            d                            rEg       ║
+║         .vQ5.          I.              ii                            X :i      ║
+║        7giM       ... ri               I              ...             rj1      ║
+║       rXi7    .rjLiirvPr               K           rjsi:iLur.          Bs      ║
+║       5E     ij7 .ir. .LP.            rv         .jv  :7:. 7J:     ..::R.      ║
+║       iM.:::uvi IBSBUB  iZ:::::i::::::7r:::i::::r2i :BuBjB7 rJY::i:i:irr       ║
+║        7i:::PE 7BvBLB7B 1S7:::i:i:i:i:::::::i:::JPr BiBrBiB :P2:iiiii:.        ║
+║          ..  ii.BgqbbBg 2                         U QBqZKQB s.                 ║
+║               7.iZ2Bjq s.                         .7.ELBLZ.r:                  ║
+║                ::.:::.i                             :.:.:.:.                   ║
+║                                                                                ║
+║                                                                                ║
+║                                                                                ║
+║                                                                                ║
+║                                                                                ║
+╚════════════════════════════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════════════╗                                                                           
+║                                                                                ║
+║                                                                                ║
+║                                    :J11UUU:                                    ║
+║                                   EU.     Dv                                   ║
+║                                :  Q        Q.YU1:                              ║
+║                              ZXvYJB.  :i:.IB:  .gI                             ║
+║                             Br    rBSUriivgE.    Ej                            ║
+║                            Sj     Z:        EZ    B                            ║
+║                            B     B           bj   B                            ║
+║                            7d.  75            B5BB:                            ║
+║                              QBB7P            B:rrjJ                           ║
+║                             qr   Q:          gv    gv                          ║
+║                             B     BU       :gj     B:                          ║
+║                             qI     .D5j7LUP1      Kq                           ║
+║                              SE    5B  ..   IB:.:gS                            ║
+║                                gBQ57P       7g:77.                             ║
+║                               vs:rLrQ:    .vd                                  ║
+║                              :B    .KZsBQr:. iLY:                              ║
+║                               Zu.    .QBi  51:  EY                             ║
+║                                :Yv7i: 7vd7j     .B                             ║
+║                                   ivYjQ2d    .iuE.                             ║
+║                                  B1i: 7BgIEggBB                                ║
+║                                  ZJ7rriri:iivP:                                ║
+║                                   B7::i:i::.B.                                 ║
+║                                   R         K:                                 ║
+║                                   g2       .B.                                 ║
+║                                    r1XI52SIu.                                  ║
+║                                                                                ║
+╚════════════════════════════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════════════╗                                                                        
+║                                                                                ║                                                                       
+║                                     .r1IK5j:                                   ║
+║                                   rMqL:...rdBJ                                 ║
+║                                 .RI..        RB                                ║
+║                                sQ. r          ZR                               ║
+║                               UQ .2B  :JBgi    Q.                              ║
+║                              iB :sBB  iBBBB.   Pd                              ║
+║                              B. JBBM .iBBBBP   iB                              ║
+║                             7B  7BB   7BQBBr   :B                              ║
+║                             Bv         dBB2    .B                              ║
+║                             Q.     7vi         :B                              ║
+║                        i7.  B    v7   ii       rB  .rvY7                       ║
+║                       PX:7vvB   :J   BBBI       iivJr: iB                      ║
+║                       B    .B   5   BBBBBr              B                      ║
+║                       b5    Q   1:.sBBBBBB             ZI                      ║
+║                        qP   B   YQ  i:   jv:         :B5                       ║
+║                         rQ. B   :7ii...:.:.q     . vDP.                        ║
+║                           KSB   . .     rri:    :2Bi                           ║
+║                            QQ                   7vB                            ║
+║                            YE          .          rB                           ║
+║                            B.    .      i          gS                          ║
+║                           .B      .     .i          Bi                         ║
+║                           Br      :      7.          B.                        ║
+║                          7B       :       q           B                        ║
+║                         .B                .Q           D                       ║
+║                          .B    JL7LUQE    rd JL7LUQE  rB                       ║
+║                                                                                ║
+║                                                                                ║
+╚════════════════════════════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                ║
+║                                                                                ║
+║                                                                      :ji::     ║
+║                                                                 i:7gZLdPi..    ║
+║                                                              .7jgBu2Qj1BPi5.   ║
+║                                                          :7bBRBBPRBBBBI2Q1.    ║
+║                               ..:..                  :vRQBBRBRPPi:qX.7: .      ║
+║                            .:i:. ..ri            ruQgBBBBggv.                  ║
+║                   .     .:i:.       iP      .rPqBZBgBDMr.                      ║
+║          ..:::::.:.....:.            .u .vqRQBRBBBPv.                          ║
+║        .r:.                 .       :rBQBQQgBRP7.                              ║
+║      .r:                  :i::i1u2MBQBDBqdS7.                                  ║
+║     .r            .      ir.:iLSBMBBRIi:b                                      ║
+║     v           .r .   .uR5v2S1rLDj.    1i                                     ║
+║    .i            iiBrr1ubBMvi.  .i      .q                                     ║
+║    ::             BBBrJL:iri..i7i       .r:                                    ║
+║    .r             7QB7      ..         ..::                                    ║
+║     v              : :             ...::.i                                     ║
+║     ::             .:::       ..:::::::..                                      ║
+║      L              .       .i..::...                                          ║
+║      .i                   .i: ::.                                              ║
+║       r.                 i:  r.                                                ║
+║        7.             .:i  :i                                                  ║
+║         ri          .:.  :i.                                                   ║
+║          .vYi.....:.. .:i.                                                     ║
+║            .irrr:...::.                                                        ║
+║                                                                                ║
+║                                                                                ║
+╚════════════════════════════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════════════╗                                                         
+║                                                                                ║ 
+║                                                                                ║   
+║                                          .Y7                                   ║
+║                                         BBBBB2                                 ║
+║                                        BBX  BBZ                                ║
+║                                       BBq   .BBr                               ║
+║                                      BQB     sQB                               ║
+║                                     SBB       BBP                              ║
+║                                    vQB.       .BB                              ║
+║                       7QBBBBBBBBBQBBBr         BBQ                             ║
+║                      BQBd5L7ii::..              BBBBQQqUr:                     ║
+║                      BB7                         .uDBBBBBBBBBi                 ║
+║                      .BBR                                  SBBi                ║
+║                        QBBY      QrBB         ..7          BBB                 ║
+║                         :BQB:    BBBB. .     BBRBK      7BBB7                  ║
+║                           vBBQ.   ::   Q  M. .BBB.   .DBBBr                    ║
+║                             SBQ   i    .YJ:    .   :BBBM.                      ║
+║                             PBB               ..  iQBJ                         ║
+║                             BB                    IBB                          ║
+║                            BBD                    7BB                          ║
+║                           .BB                     .BB.                         ║
+║                           RBR        7QBB2         BBi                         ║
+║                           BB.    :XBBBBBBBQBv      BB1                         ║
+║                           BB7idQBBBBY     JBBBQ.   ZBD                         ║
+║                           SBBBBBs.          .gBBBP BBQ                         ║
+║                                                rBQBBB:                         ║
+║                                                                                ║
+║                                                                                ║
+╚════════════════════════════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════════════╗                   
+║                                                                                ║
+║                                                                                ║
+║                                                                                ║
+║                                         .:i777iri:                             ║
+║                                    :5gBBZqSuJXB1IIgBBbJi                       ║
+║                                 rBBB:S 7     7    i7i5QBBBQX                   ║
+║                               JBQ: :  :i.   .L :rs: QDs7Y5QBB.                 ║
+║                             .BBi    S L.L   u .7i. dB                          ║
+║                            vBS L    v.::s   I u.r  Bi      ....                ║
+║                           JB .:.i    5 7i: .r r7   B.  .ggbPBBBBBBg:           ║
+║                          JBi  7:s    U ri7 i..si   B. sBi.iBM7.                ║
+║                         bB  i  Jri   i:.iv 7 ij.   Bi B  iBi                   ║
+║                       sBB ..ZZ  Yv    s rr r rL    XBB7 :RP                    ║
+║                     5BD  rBBBIr vv    Y rr.s:Ks    7L2 r B                     ║
+║                   .Bv    :2U:.r 7r.  .MYZI17::MB: i.   r:B                     ║
+║                    QQY:r    .:  r:Ev7i      .XS    XD2 iiB                     ║
+║                     .qBB    .i  7 B       rQUL7   .B:Qv.iB                     ║
+║                        rQu      Y Pusri7SdU..:I   BZ rB :B                     ║
+║                          BB     v i  .g.s i v Pi  Bi  B7 UB                    ║
+║                           vBg. 7 r.   i :.r 1 iX  B:   BdPBBBU:                ║
+║                             sBBS.7   L : :: :i v2 rB     :rvXPu                ║
+║                               .2QBP7r1 s r   v  .7iQBBB.                       ║
+║                                   rURMQBZQEXSQBSPRBQKL:                        ║
+║                                         ..::::...                              ║
+║                                                                                ║
+║                                                                                ║
+║                                                                                ║
+║                                                                                ║
+╚════════════════════════════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════════════╗                                                                   
+║                                                                                ║
+║                                                                                ║ 
+║                            .   :vvv7                                           ║
+║                         U27UMLM1.  .B                                          ║
+║                        B:    X      BII7U5                                     ║
+║                       JS                 E5                                    ║
+║                        R.  .::i:iirr:   gR                                     ║
+║                         sXv         iS  iUU      :L1juJj7.                     ║
+║                          B ...:       Y   U2   YEL:     .7P                    ║
+║                       7qLir XB.       ZB.iZ:  R7          B                    ║
+║                      DY   ::vr        KL::   B.  .ii:....KBr                   ║
+║                     M        i        J7    Ju  ri         rM:                 ║
+║                    7B.r.     :         Mr   Z  r    .:::.    Q:                ║
+║                     :iLu17:rg           7XYvB:r   i:.  ..i:   B                ║
+║                        .B:r.:.            R: j.rJ:        :i  Xi               ║
+║                        B     r:         .:.     :i  ..     2M Er               ║
+║                        M7s   :r         J:    .  JBK::uE    Bri                ║
+║                         Br.:::         .1i:7v..M. Brr  :Q  .J                  ║
+║                         g   :    :   PXI:   .rir:: 7j   rQrg.                  ║
+║                         :B.:rv..vYiiYU          E vS     .r                    ║
+║                          B    ..    r            Qd                            ║
+║                          YP        r.          .Br                             ║
+║                           rdv       v.        jQi                              ║
+║                             .IJ      ..:..iUdBd                                ║
+║                              .LQI7B:     :BU.                                  ║
+║                            BvSIS  KBBB.SM:                                     ║
+║                           .B:i  .:..rr .B.:                                    ║
+║                                                                                ║
+╚════════════════════════════════════════════════════════════════════════════════╝
+╔════════════════════════════════════════════════════════════════════════════════╗    
+║                         .:ii:.                   ....                          ║
+║                       .si.   .7r.:iririiirrri.:vr:..:7r                        ║
+║                       S   ...  .r.          .:i       .2                       ║
+║                      7:  L..u1                   Zi:7   1                      ║
+║                      .s .s s.                     s :r  K                      ║
+║                       iv .1     :7          ir     1r. J:                      ║
+║                        .r:        :.       :        ..L:                       ║
+║                          u.      .BB      YBY       5.                         ║
+║                          v.       :i::i:i::i        I                          ║
+║                          :L     iv.  ::r:.  :Y     :v                          ║
+║                           u.   vi    v..:i    5    S                           ║
+║                            v:  5      .M   .  r: .v                            ║
+║                            .Ev.v  :   :u   r  J:rqr.                           ║
+║                          rv.  :rMv....  ....:dK:   ivi                         ║
+║                         1:       rr:i:..::iii.       i1                        ║
+║                        S.   .j       ..:..       j    .5                       ║
+║                       U.    d     ii:.. ..::i:.  .d     S                      ║
+║                      :7    iv   rr.          .ir  .2    :v                     ║
+║                      u     I   7.              .L  I.    J                     ║
+║                      X:iir:Qi .:                .i 1K:ii:E:                    ║
+║                     iL.     :iE         v        X7:      r7                   ║
+║                    :Y         :u                r7         iv                  ║
+║                    U    :ii::  .s              :7  ii:ir.   X                  ║
+║                    J.  7:    r: Sr.           .E .r     v.  5                  ║
+║                     S  v      r 1..::..   ..:::P r      :: Y:                  ║
+║                     .u r      .Xr::iiiiiiririi.:Ir      r.7r                   ║
+║                       rrK7.  :Ri    ........    .gv   iXui.                    ║
+║                                                                                ║
+╚════════════════════════════════════════════════════════════════════════════════╝  
