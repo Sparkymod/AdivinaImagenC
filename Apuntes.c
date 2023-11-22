@@ -1,87 +1,95 @@
+#define _CRT_SECURE_NO_WARNINGS
+
 #include <stdio.h>
+#include <stdlib.h>
+#include <dirent.h>
 #include <time.h>
 #include <locale.h>
 #include <string.h>
 struct Apuntes
 {
-    int numero;
-    int inicio;
-    int fin;
+	int numero;
+	int inicio;
+	int fin;
 };
 
 int main(void)
 {
-    setlocale(LC_CTYPE,"es_ES.UTF-8");
-    srand(time(NULL));
-    
-    struct Apuntes nuevos[] =
-        {
-            {1, 1, 30},
-            {2, 31, 60},
-            {3, 61, 90},
-            {4, 91, 120},
-            {5, 121, 150},
-            {6, 151, 180},
-            {7, 181, 210},
-            {8, 211, 240},
-            {9, 241, 270},
-            {10, 271, 300},
-            {11, 301, 330},
-            {12, 331, 360},
-            {13, 361, 390},
-            {14, 391, 420},
-            {15, 421, 450},
-            {16, 451, 480},
-            {17, 481, 510},
-            {18, 511, 540},
-            {19, 541, 570},
+	const char* directoryPath = "./Datos";
+	char* respuestas[1000];
 
-        };
-    char palabras[][20] = { "CASA", "TIBURON", "ARBOL", "GATO", "BARCO", "PASTEL", "MANOS", "PELOTA",
-                           "MANZANA", "PIZZA", "MOTOCICLETA", "CARRO", "FLORES", "FANTASMA",
-                           "GUITARRA", "ESTRELLA", "PEZ", "GALLO", "PELUCHE"};
-     int x = (sizeof(nuevos) / sizeof(nuevos[0]));
+	// 
+	int fileCount = listFiles(respuestas, directoryPath);
+	if (fileCount < 0) return 1;
 
-    int flujo = 0;
-    do
-    {
+	setlocale(LC_CTYPE, "es_ES.UTF-8");
+	srand(time(NULL));
 
-        FILE *archivo = fopen("Img.txt", "r");
-        if (archivo == NULL)
-        {
-            perror("Error al abrir el archivo");
-            return 1;
-        }
+	struct Apuntes nuevos[] =
+	{
+		{1, 1, 30}
+	};
 
-        int numeroAleatorio = (rand() % x);
-        int numeroDeLinea = 0;
+	char palabras[][20] = { "CASA" };
 
-        printf("%s\n", palabras[numeroAleatorio]);
-        char linea[512];
+	int flujo = 0;
+	do
+	{
+		FILE* archivo = fopen("./Datos/CASA.TXT", "r");
+		if (archivo == NULL)
+		{
+			perror("Error al abrir el archivo");
+			return 1;
+		}
 
-        while (fgets(linea, sizeof(linea), archivo) != NULL)
-        {
-            numeroDeLinea++;
+		int numeroAleatorio = (rand() % fileCount);
+		int numeroDeLinea = 0;
 
-            if (numeroDeLinea >= nuevos[numeroAleatorio].inicio && numeroDeLinea <= nuevos[numeroAleatorio].fin)
-            {
-                printf("%s", linea);
-            }
+		char linea[512];
 
-            // Salir del bucle después de imprimir la línea final
-            if (numeroDeLinea == nuevos[numeroAleatorio].fin)
-            {
-                break;
-            }
-        }
+		while (fgets(linea, sizeof(linea), archivo) != NULL)
+		{
+			numeroDeLinea++;
 
-        printf("Si desea seguir jugando inserte un (1), de lo contrario otro numero: ");
-        scanf("%d", &flujo);
+			if (numeroDeLinea >= nuevos[numeroAleatorio].inicio && numeroDeLinea <= nuevos[numeroAleatorio].fin)
+			{
+				printf("%s", linea);
+			}
 
-        // Cerrar el archivo
-        fclose(archivo);
+			// Salir del bucle después de imprimir la línea final
+			if (numeroDeLinea == nuevos[numeroAleatorio].fin)
+			{
+				break;
+			}
+		}
 
-    } while (flujo == 1);
+		printf("Si desea seguir jugando inserte un (1), de lo contrario otro numero: ");
+		scanf("%d", &flujo);
 
-    return 0;
+		// Cerrar el archivo
+		fclose(archivo);
+
+	} while (flujo == 1);
+
+	return 0;
+}
+
+int listFiles(char* filenames[], const char* directoryPath) {
+	DIR* d = opendir(directoryPath);
+	if (d == NULL) {
+		perror("opendir failed");
+		return -1;
+	}
+
+	struct dirent* dir;
+	int count = 0;
+
+	while ((dir = readdir(d)) != NULL) {
+		if (dir->d_type == DT_REG) {
+			filenames[count] = _strdup(dir->d_name); // Store filename
+			count++;
+		}
+	}
+	closedir(d);
+	return count;
 }
