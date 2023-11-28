@@ -3,7 +3,6 @@
 #include "functions.h"
 #include <stdio.h>
 #include <stdlib.h>
-#include <dirent.h>
 #include <time.h>
 #include <locale.h>
 #include <string.h>
