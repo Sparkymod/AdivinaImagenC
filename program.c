@@ -18,7 +18,7 @@ int main(void)
 	int fileCount = listFiles(respuestas, directoryPath);
 	if (fileCount < 0) return 1;
 
-	// Esta funcion permite definir la localizacion para determinar si tiene characteres especiales, es util aqui porque usamos ASCII.
+	// Esta funcion permite definir la localizacion para decleterminar si tiene characteres especiales, es util aqui porque usamos ASCII.
 	setlocale(LC_CTYPE, "es_ES.UTF-8");
 	srand(time(NULL));
 

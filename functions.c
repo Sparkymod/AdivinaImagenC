@@ -1,10 +1,11 @@
 #include "functions.h"
 #include <stdio.h>
 #include <stdlib.h>
-#include <dirent.h>
+#include "includes/dirent.h"
 #include <time.h>
 #include <locale.h>
 #include <string.h>
+
 // Lista los archivos a guarda los nombres en un arreglo.
 int listFiles(char* filenames[], const char* directoryPath) {
 
