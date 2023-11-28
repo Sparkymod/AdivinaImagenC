@@ -52,7 +52,6 @@ char* getBaseName(char* filename)
 
 	// En base al anterior, entonces sacamos lo que esta delante del primer punto(.) que encuentre.
 	// Esto limita a que el nombre del archivo sea directo sin characteres especiales. 
-	// TODO: Habria que manejar mejor esta parte para aceptar un nombre mas amplio.
 	char* ext = strrchr(base, '.');
 	if (ext)
 	{

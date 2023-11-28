@@ -31,7 +31,6 @@ int main(void)
 
 	do
 	{
-		printf("Corazones: %s\n", fallos == 0 ? "***" : fallos == 1 ? "**" : "*");
 		printf("Cargando una nueva imagen...\n\n");
 
 		// Dentro de todos los archivos, elegimos uno al azar y lo seleccionamos como imagen a mostrar.
@@ -54,17 +53,18 @@ int main(void)
 		}
 
 		fclose(archivo);
-
+		printf("Puntos actuales: %d \t Corazones: %s", puntos, fallos == 0 ? "***" : fallos == 1 ? "**" : "*");
 		printf("\n¿Qué imagen se muestra? (Ingrese su respuesta): ");
 
 		char respuestaUsuario[100];
 
 		// Obtenemos el nombre de la imagen que se mostro y la guardamos para que sea la respuesta correcta.
-		char respuestaCorrecta[100];
-		strcpy(respuestaCorrecta, getBaseName(respuestas[numeroAleatorio]));
+		char tempFilename[100];
+		strcpy(tempFilename, respuestas[numeroAleatorio]);
+		char* respuestaCorrecta = getBaseName(tempFilename);
 
 		scanf("%99s", respuestaUsuario);
-
+		flujo = 1;
 		if (strcmp(respuestaCorrecta, respuestaUsuario) == 0)
 		{
 			puntos++;
@@ -72,8 +72,7 @@ int main(void)
 		}
 		else {
 			fallos++;
-			printf("Incorrecto. Quedan %d corazones.\n", 3 - fallos);
-			printf("Corazones: %s\n", fallos == 0 ? "***" : fallos == 1 ? "**" : "*");
+			printf("\nIncorrecto. Quedan %d corazones.\n", 3 - fallos);
 
 			if (fallos == 3) {
 				printf("¡Has perdido! Puntos acumulados: %d\n", puntos);
@@ -88,11 +87,6 @@ int main(void)
 					break;
 				}
 			}
-		}
-
-		if (fallos < 3) {
-			printf("¿Continuar jugando? [Sí = 1, No = cualquier otro número]: ");
-			scanf("%d", &flujo);
 		}
 
 	} while (flujo == 1);
