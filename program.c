@@ -8,13 +8,6 @@
 #include <locale.h>
 #include <string.h>
 
-struct Apuntes
-{
-	int numero;
-	int inicio;
-	int fin;
-};
-
 int main(void)
 {
 	const char* directoryPath = "./Datos";
